@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Output directories
+out
+.vs
